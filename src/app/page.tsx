@@ -1,10 +1,12 @@
 import HeaderMenu from '@/components/header'
+import Hero from '@/components/hero'
 import React from 'react'
 
 const MainPage = () => {
   return (
-    <div className='bg-neutral-800 h-screen'>
+    <div className='bg-neutral-800 min-h-screen'>
       <HeaderMenu/>
+      <Hero/>
     </div>
   )
 }
