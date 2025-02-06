@@ -3,7 +3,7 @@ import React from 'react'
 
 const MainPage = () => {
   return (
-    <div className='bg-black h-screen '>
+    <div className='bg-neutral-800 h-screen'>
       <HeaderMenu/>
     </div>
   )
