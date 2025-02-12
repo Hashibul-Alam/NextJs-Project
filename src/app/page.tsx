@@ -4,7 +4,7 @@ import React from 'react'
 
 const MainPage = () => {
   return (
-    <div className='bg-neutral-800 min-h-screen'>
+    <div className='bg-slate-950 min-h-screen'>
       <HeaderMenu/>
       <Hero/>
     </div>
